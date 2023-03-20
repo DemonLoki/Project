@@ -1,0 +1,39 @@
+body > main{
+        font-family: "GFS Neohellenic";
+        text-align:center;
+        font-size:  14pt;
+        margin:0px;
+}
+
+
+body > header{
+        background-color:lightseagreen;
+        margin:0;
+}
+
+#Title{
+        font-family: "Fredericka the Great";
+        color:azure;
+        text-align: center;
+        font-size: 38pt;
+}
+
+.Header1{
+        font-family: "Spinnaker";
+        color:antiquewhite;
+        text-align:center;
+}
+
+#intro{
+        font-family: "GFS Neohellenic";
+        text-align:center;
+}
+
+.box{
+        width: 100%;
+    }
+    
+    #search {
+        margin: 0 auto;
+        display: inline-block;
+    }
