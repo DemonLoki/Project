@@ -1,14 +1,19 @@
+body{
+        background-color:rgb(246, 255, 255);
+        margin:0px
+}
+
 body > main{
         font-family: "GFS Neohellenic";
         text-align:center;
         font-size:  14pt;
-        margin:0px;
+        margin:10px;
 }
 
 
 body > header{
-        background-color:lightseagreen;
-        margin:0;
+        background-color:#0A4D44;
+        margin:-30px;
 }
 
 #Title{
@@ -37,3 +42,23 @@ body > header{
         margin: 0 auto;
         display: inline-block;
     }
+
+#Paris{
+        background-color: #318CE7;
+        margin:-10px;
+}
+
+#NewYork{
+        background-color: gold;
+        margin:-10px;
+}
+
+#Dubai{
+        background-color: turquoise;
+        margin:-10px;
+}
+
+#Prague{
+        background-color: silver;
+        margin:-10px;
+}
